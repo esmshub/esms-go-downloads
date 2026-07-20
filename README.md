@@ -12,9 +12,10 @@ Key improvements include:
 - 🧩 Extensible architecture with new engine capabilities.
 
 ### Source code
+
 The ESMS Go source code is currently private while development continues. This repository is used exclusively to distribute official releases.
 
-The long-term intention is to make the project open source once it reaches a suitable stage of maturity.
+The long-term intention is to release the project as open source once it reaches a suitable stage of maturity.
 
 ## 📥 Latest Releases
 
@@ -32,6 +33,3 @@ The long-term intention is to make the project open source once it reaches a sui
 | **Beta** | Testing builds containing new features that may still change. |
 | **Alpha** | Early development builds for testing new functionality. |
 
-## 📄 License
-
-The distributed binaries are provided under the terms specified in the accompanying license agreement.
